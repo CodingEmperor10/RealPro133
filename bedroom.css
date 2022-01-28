@@ -1,0 +1,30 @@
+
+body{
+background-size: cover;
+background-position: center;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+font-style: italic;
+}
+
+#many{
+ font-size: 18px;
+font-style: italic;
+
+}
+
+canvas{
+    margin-top: 150px;
+box-shadow: 10px 10px 10px orange;    
+border-radius: 25px;
+}

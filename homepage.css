@@ -1,0 +1,29 @@
+
+body{
+background-size: cover;
+background-position: center;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#modern-kitchen,#study-room,#lobby,#bedroom,#restroom{
+box-shadow: 10px 10px 10px white; 
+border-radius: 30px;  
+font-size: x-large; 
+}
+
+#status
+{
+font-size: 18px;
+font-style: italic;
+}
+
+canvas{
+box-shadow: 10px 10px 10px orange;    
+border-radius: 25px;
+}
